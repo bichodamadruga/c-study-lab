@@ -1,6 +1,6 @@
 # 🔬 c-study-lab
 
-Este repositório é o meu laboratório pessoal focado no aprendizado e domínio da **Linguagem C**, acompanhando as aulas do curso do professor André Backes.
+Este repositório é o meu laboratório pessoal focado no aprendizado e domínio da **Linguagem C**, a princípio acompanhando as aulas do curso de C do professor Dr. André Backes.
 
 ## 🎯 O Objetivo
 Mais do que apenas copiar códigos das aulas, este espaço serve para **testar conceitos ao limite, quebrar o código e documentar o aprendizado**. Cada arquivo contém anotações em comentários explicando o "porquê" de cada linha, funcionando como meu próprio guia de referência rápida para o futuro.
